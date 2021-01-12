@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Jéremy Lenoir Logo.svg"
+   width="17.509907mm"
+   height="22.840946mm"
+   viewBox="0 0 17.509907 22.840946"
+   version="1.1"
+   id="svg8">
+  <sodipodi:namedview
+     inkscape:current-layer="svg8"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="14.530284"
+     inkscape:cx="34.855982"
+     inkscape:zoom="9.1228563"
+     showgrid="false"
+     id="namedview13"
+     inkscape:window-height="796"
+     inkscape:window-width="1733"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs2">
+    <rect
+       x="50.24667"
+       y="76.439087"
+       width="42.763123"
+       height="51.583019"
+       id="rect839" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     y="3.8326187"
+     x="0.13229489"
+     height="16.492296"
+     width="16.352356"
+     id="rect899"
+     style="fill:#dedfe2;fill-opacity:1;stroke:none;stroke-width:0.782587;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  <path
+     id="path862"
+     d="m 0.1322915,20.854098 c 1.020019,0 1.850791,0.0648 2.278307,-0.36272 0.449355,-0.67634 0.257838,-0.6878 0.257838,-15.2411302 h 2.632041 c 0,14.5768602 0.274867,15.2909302 -0.830734,16.5205602 -1.078131,1.07813 -2.771661,0.93083 -4.337452,0.93083 z"
+     style="fill:#dd156e;fill-opacity:1;stroke:#dd156e;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <rect
+     style="display:inline;fill:#dd156e;fill-opacity:1;stroke:none;stroke-width:0.204047;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="rect880-2"
+     width="2.8998768"
+     height="2.3644781"
+     x="2.541055"
+     y="-2.220446e-16" />
+  <path
+     id="path897"
+     d="M 7.7533975,1.0252978 H 10.035428 V 16.536498 h 7.342187 v 1.81901 H 7.7711085 Z"
+     style="fill:#58595b;fill-opacity:1;stroke:#58595b;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>
